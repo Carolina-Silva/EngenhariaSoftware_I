@@ -1,0 +1,147 @@
+<mxfile host="65bd71144e">
+    <diagram id="y_w0aVyQnxrfPItYfsyk" name="Page-1">
+        <mxGraphModel dx="1711" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-650" y="-325" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-780" y="-325" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-710" y="-455" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-570" y="-585" width="510" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-6" value="Processar vendas" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-380" y="-510" width="100" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-7" value="Processar vendas&lt;br&gt;a prazo" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-280" y="-390" width="100" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-8" value="Processar vendas&lt;br&gt;a vista" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-490" y="-400" width="110" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-9" value="Processar vendas&lt;br&gt;há boleto" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-190" y="-250" width="120" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-10" value="Processar vendas&lt;br&gt;com cartão de crédito" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-380" y="-250" width="120" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-11" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-740" y="-325" as="sourcePoint"/>
+                        <mxPoint x="-710" y="-365" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-12" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-660" y="-325" as="sourcePoint"/>
+                        <mxPoint x="-680" y="-365" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.939;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-8" target="Oir4PSkR5yXQYD4hzoM9-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-380" y="-315" as="sourcePoint"/>
+                        <mxPoint x="-330" y="-365" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-14" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-7" target="Oir4PSkR5yXQYD4hzoM9-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-377.31999999999994" y="-393" as="sourcePoint"/>
+                        <mxPoint x="-349.34367501636984" y="-447.1357850743402" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-10" target="Oir4PSkR5yXQYD4hzoM9-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-367.31999999999994" y="-383" as="sourcePoint"/>
+                        <mxPoint x="-339.34367501636984" y="-437.1357850743402" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-9" target="Oir4PSkR5yXQYD4hzoM9-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-357.31999999999994" y="-373" as="sourcePoint"/>
+                        <mxPoint x="-329.34367501636984" y="-427.1357850743402" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-17" value="Calcular desconto" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-520" y="-275" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-8" target="Oir4PSkR5yXQYD4hzoM9-17" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-380" y="-315" as="sourcePoint"/>
+                        <mxPoint x="-330" y="-365" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-450" y="-325" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-9" target="Oir4PSkR5yXQYD4hzoM9-17" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-380" y="-315" as="sourcePoint"/>
+                        <mxPoint x="-330" y="-365" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-130" y="-135"/>
+                            <mxPoint x="-320" y="-135"/>
+                            <mxPoint x="-470" y="-135"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="-165" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-24" value="&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-480" y="-295" width="20" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-25" value="&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=95;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-140" y="-215" width="20" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-26" value="&lt;h1&gt;Criar Caso de Uso&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 14px; background-color: initial;&quot;&gt;Uma loja pretende desenvolver um sistema cujo processo de modelagem utilizará UML (Unified Modeling Language). Essa empresa tem dois tipos de colaboradores, o atendente e o gerente.&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;br/&gt;A principal atividade a ser automatizada pelo sistema é o processamento de vendas, cuja execução é altamente complexa. Dessa forma, a modelagem deve ser realizada de maneira estruturada e organizada,&lt;br&gt;&lt;br/&gt;&lt;br/&gt;tendo como foco a sua reutilização em diferentes contextos. As vendas são realizadas quase integralmente por atendentes, entretanto, caso haja grande quantidade de clientes, os gerentes também podem processar vendas, por exemplo. O processamento de vendas pode ser realizado considerando duas modalidades de pagamento: a prazo ou à vista, todavia, independentemente da forma de pagamento, há um conjunto comum de ações que sempre são realizadas. As compras a prazo englobam dois modos de pagamento (via cartão de crédito e via boleto) que possuem ações comuns, mas que se diferem nas ações finais. Para algumas formas de processamento de vendas é aplicado um desconto sobre o valor total. O desconto deve ser aplicado sempre que o pagamento for realizado à vista ou quando o pagamento for realizado via boleto com parcelamento em até seis vezes. Entretanto, a loja oferece&lt;br&gt;&lt;br/&gt;&lt;br/&gt;como forma de pagamento boleto com parcelamento em até doze vezes. No processamento de vendas, após a confirmação do pagamento, é necessário emitir a nota fiscal dos produtos. Apenas em circunstâncias em que algum dos produtos vendidos não possa ser retirado na loja, deve ser possível solicitar a entrega pelo sistema. Elabore o diagrama de caso de uso.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-775" y="-1110" width="610" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-27" value="Emitir nota fiscal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-210" y="-565" width="100" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.936;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-6" target="Oir4PSkR5yXQYD4hzoM9-27" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-434.64281143109315" y="-335.42595252039246" as="sourcePoint"/>
+                        <mxPoint x="-460" y="-265" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-250" y="-510" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-31" value="&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-220;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-210" y="-540" width="20" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-33" value="Solicitar Entrega" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-430" y="-584" width="100" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-6" target="Oir4PSkR5yXQYD4hzoM9-33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-276.39999999999986" y="-484.9849999999999" as="sourcePoint"/>
+                        <mxPoint x="-192.75989157770096" y="-513.2467028074329" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-35" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
+                    <mxGeometry x="-350" y="-540" width="60" height="17.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.021;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" parent="1" source="Oir4PSkR5yXQYD4hzoM9-3" target="Oir4PSkR5yXQYD4hzoM9-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-380" y="-410" as="sourcePoint"/>
+                        <mxPoint x="-330" y="-460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oir4PSkR5yXQYD4hzoM9-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.058;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" target="Oir4PSkR5yXQYD4hzoM9-33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-680" y="-430" as="sourcePoint"/>
+                        <mxPoint x="-367.89999999999986" y="-463.9749999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
